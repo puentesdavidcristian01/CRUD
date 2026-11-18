@@ -15,9 +15,9 @@ Proyecto realizado para el seminario **"Gestión de Software Ágil asistido por 
 
 ---
 
-## 🔗 Enlace del proyecto
+## 🔗 Enlace del video
 
-👉 **[PEGA_AQUÍ_EL_TEXTO_DEL_ENLACE](PEGA_AQUÍ_TU_ENLACE)**
+👉 **[video](https://drive.google.com/file/d/1EfV2s5Ay22kWUpzqd5edNkCFvjqWXXIT/view?usp=drivesdk)**
 
 ---
 
